@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou o @Kbrit0
-- 👀 Meu interesse é aprender o máximo que puder sobre Programação,
+- 👀 Meu interesse é aprender o máximo que conseguir sobre Programação,
 - sobre: linguagens, códigos, notícias, curiosidades, avanços, descobertas, e tudo o mais que for relacionado a Tecnologia da Informação). 
 - 🌱 No momento estudo Análise e Desenvolvimento de Sistemas, 1º Semestre - Noite, na Universidade Cruzeiro do Sul (Campi - Paulista).
-- 💞️ Estou disposto a colaborar com todos os projetos que puder ajudar (e claro que, se tiver tempo). ; -)
+- 💞️ Estou disposto a colaborar com todos os projetos que for possível ajudar (e claro que, se tiver tempo). ; -)
 - 📫 Para entrar em contato, escreva para: rbsatende@gmail.com
 
 <!---
